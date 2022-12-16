@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Minsson&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Minsson&fontSize=60)
 
 ### 🎓 Study
-- Yagom Academy iOS career starter 6th** (2022.04.11 ~ 2022.10.07)
-- Yagom Academy iOS Code Starter Camp 3th (2022.02 ~ 2022.03)
+- Yagom Academy iOS Career Starter 6th (2022.04.11 ~ 2022.10.07)
+- Yagom Academy iOS Code Starter Camp 3th (2022.02.07 ~ 2022.03.11)
 <br>
 
 ### ⚒️  Tech Stack & Tools
