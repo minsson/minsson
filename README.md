@@ -5,7 +5,7 @@
 - [Medium 블로그](https://minsson.medium.com)
 
 ### 💻 Recent Project
-[galpi:](https://github.com/team-galpi/ios-galpi/pulls?q=is%3Apr+is%3Aclosed)
+- [galpi:](https://github.com/team-galpi/ios-galpi/pulls?q=is%3Apr+is%3Aclosed)
 
 ### 🎓 Study
 - Yagom Academy iOS Career Starter 6th (2022.04.11 ~ 2022.10.07)
