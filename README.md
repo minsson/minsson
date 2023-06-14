@@ -4,7 +4,7 @@
 
 ## 💻 Recent Project
 ### 🥕 [홍당무 마켓](https://github.com/minsson/ios-hongdangmu-market)
-> 실제 서버와 REST API를 통한 통신이 가능한 중고거래 앱 토이 프로젝트입니다. 
+> REST API를 통해 실제 서버와 통신하는 중고거래 앱 토이 프로젝트입니다.
 > UI 및 기능은 당근마켓을 참고했습니다.
 - ✨ [핵심 키워드](https://github.com/minsson/ios-hongdangmu-market/blob/develop/README.md#-핵심-키워드)
 - 🏗️ [구조](https://github.com/minsson/ios-hongdangmu-market/blob/develop/README.md#%EF%B8%8F-구조)
