@@ -2,8 +2,26 @@
 - [Notion 이력서](https://dev-minsson.notion.site/1628-iOS-33cc1b08424941bba81b52f0babb15e7)
 - [Medium 블로그](https://minsson.medium.com)
 
-## 💻 Recent Project
-### 🥕 [홍당무 마켓](https://github.com/minsson/ios-hongdangmu-market)
+
+### 💼 Experience
+- VOGOPLAY, iOS Developer (Jul 2023 ~ )
+
+### 🏃 Activity
+- Yagom Academy iOS Code Starter Camp, Code Reviewr (Sep 2023 ~ )
+
+### 🎓 Education
+- Yagom Academy iOS Career Starter Bootcamp (Apr 2022 ~ Oct 2022)
+- Yagom Academy iOS Code Starter Bootcamp (Feb 2022 ~ Mar 2022)
+- Russian & Industrial Engineering, HUFS(Hankuk University of Foreign Studies)
+
+### ⚒️  Tech Stack & Tools
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white">  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white">  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black"> 
+<br>
+
+---
+
+### 💻 Recent Project
+#### 🥕 [홍당무 마켓](https://github.com/minsson/ios-hongdangmu-market)
 > REST API를 통해 실제 서버와 통신하는 중고거래 앱 토이 프로젝트입니다.
 > UI 및 기능은 당근마켓을 참고했습니다.
 - ✨ [핵심 키워드](https://github.com/minsson/ios-hongdangmu-market/blob/develop/README.md#-핵심-키워드)
@@ -27,11 +45,3 @@
       - [UIImage, UIGraphicsImageRenderer를 사용하는 방법](https://github.com/minsson/ios-hongdangmu-market/blob/develop/README.md#uiimage-uigraphicsimagerenderer를-사용하는-방법) ⭐️
       - [ImageIO, CGImage를 사용하는 방법](https://github.com/minsson/ios-hongdangmu-market/blob/develop/README.md#imageio-cgimage를-사용하는-방법) ⭐️
 
-
-### 🎓 Study
-- Yagom Academy iOS Career Starter 6th (2022.04.11 ~ 2022.10.07)
-- Yagom Academy iOS Code Starter Camp 3th (2022.02.07 ~ 2022.03.11)
-
-### ⚒️  Tech Stack & Tools
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white">  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white">  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">  <img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=black"> 
-<br>
