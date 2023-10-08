@@ -2,12 +2,11 @@
 - [Notion 이력서](https://dev-minsson.notion.site/1628-iOS-33cc1b08424941bba81b52f0babb15e7)
 - [Medium 블로그](https://minsson.medium.com)
 
-
 ### 💼 Experience
 - [VOGOPLAY](https://apps.apple.com/kr/app/%EC%B4%88%ED%8A%B9%EA%B0%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%87%BC%ED%95%91-vogo/id1516761853), iOS Developer (Jul 2023 ~ )
 
 ### 🏃 Activity
-- Yagom Academy iOS Code Starter Camp, Code Reviewr (Sep 2023 ~ )
+- Yagom Academy iOS Code Starter Camp, Code Reviewer (Sep 2023 ~ )
 
 ### 🎓 Education
 - Yagom Academy iOS Career Starter Bootcamp (Apr 2022 ~ Oct 2022)
