@@ -4,7 +4,7 @@
 
 
 ### 💼 Experience
-- VOGOPLAY, iOS Developer (Jul 2023 ~ )
+- [VOGOPLAY](https://apps.apple.com/kr/app/%EC%B4%88%ED%8A%B9%EA%B0%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%87%BC%ED%95%91-vogo/id1516761853), iOS Developer (Jul 2023 ~ )
 
 ### 🏃 Activity
 - Yagom Academy iOS Code Starter Camp, Code Reviewr (Sep 2023 ~ )
