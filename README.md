@@ -1,4 +1,5 @@
-
+### 📮Contact
+- mskaang@gmail.com
 
 ### 💼 Experience
 - [VOGOPLAY](https://apps.apple.com/kr/app/%EC%B4%88%ED%8A%B9%EA%B0%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%87%BC%ED%95%91-vogo/id1516761853), iOS Developer (Jul 2023 ~ )
@@ -12,7 +13,7 @@
 - Yagom Academy iOS Code Starter Bootcamp (Feb 2022 ~ Mar 2022)
 - Russian & Industrial Engineering, HUFS(Hankuk University of Foreign Studies)
 
-### Blog
+### ✍️ Blog
 - [Medium Blog](https://minsson.medium.com)
 
 ### ⚒️  Tech Stack & Tools
