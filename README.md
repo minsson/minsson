@@ -2,7 +2,8 @@
 - mskaang@gmail.com
 
 ### 💼 Experience
-- [VOGOPLAY](https://apps.apple.com/kr/app/%EC%B4%88%ED%8A%B9%EA%B0%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%87%BC%ED%95%91-vogo/id1516761853), iOS Developer (Jul 2023 ~ )
+- [VOGOPLAY](https://apps.apple.com/kr/app/%EC%B4%88%ED%8A%B9%EA%B0%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C-%EC%87%BC%ED%95%91-vogo/id1516761853), iOS Developer (Jul 2023 ~ Nov 2023)
+- Specto Labs, iOS Developer (Dec 2023 ~)
 
 ### 🏃 Activity
 - SeSAC iOS App Developer Bootcamp, Code Reviewer (Nov 2023 ~ )
