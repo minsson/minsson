@@ -6,7 +6,7 @@
 - Vogoplay, iOS Developer (Jul 2023 ~ Nov 2023)
 
 ### 🏃 Activity
-- SeSAC iOS App Developer Bootcamp, Code Reviewer (Nov 2023 ~ )
+- SeSAC iOS App Developer Bootcamp, Code Reviewer (Nov 2023 ~ May 2024)
 - Yagom Academy iOS Code Starter Camp, Code Reviewer (Sep 2023 ~ Oct 2023 )
 
 ### 🎓 Education
